@@ -1,0 +1,3 @@
+<!DOCTYPE email [
+  <!ENTITY joined "&begin;&file;&end;">
+]>
