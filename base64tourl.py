@@ -1,5 +1,4 @@
 import requests
-import os, sys
 import base64
 import urllib.request
 
